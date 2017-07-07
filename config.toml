@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "project 5454"
+baseURL = "https:\/\/project5454.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "www.ricky.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
